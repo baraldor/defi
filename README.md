@@ -37,8 +37,11 @@ https://nakamoto.com/satoshi-nakamoto/
 [Video] How Bitcoin Works Anyway?   
 https://www.youtube.com/watch?v=bBC-nXj3Ng4
 
+How Ethereum Works Anyway?   
+https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway
 
-
+Ethereum Yellow paper   
+https://ethereum.github.io/yellowpaper/paper.pdf
 
 Videos of how blockchain works
 Ethereum
@@ -48,11 +51,22 @@ https://www.youtube.com/watch?v=2wxtiNgXBaU&feature=emb_title
 
 # Token Economics
 
+ETH Monetary Policy   
+https://docs.ethhub.io/ethereum-basics/monetary-policy/
+
 [Video] Mechanism Design   
 https://www.youtube.com/watch?v=gCFlGLbI_kE
 
 Aavenomics   
 https://docs.aave.com/aavenomics/
+
+# Stablecoins
+
+Overview of Stablecoins   
+https://multicoin.capital/2018/01/17/an-overview-of-stablecoins/
+
+DAI Whitepaper   
+https://makerdao.com/en/whitepaper/
 
 # Lending 
 
@@ -64,6 +78,15 @@ https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protocol_Whitepaper_
 
 [Video] Compound   
 https://www.youtube.com/watch?v=Z4mWFI2Jalw
+
+Compound Whitepaper   
+https://compound.finance/documents/Compound.Whitepaper.pdf
+
+# Decentralized Exchanges (DEXes)
+
+Uniswap Whitepaper   
+https://uniswap.org/whitepaper.pdf
+
 
 
 # Favorite Articles 
@@ -83,9 +106,11 @@ https://newsletter.banklesshq.com/p/why-the-vcs-are-missing-defi
 
 # Favorite Podcasts
 
-The Bull Case for DeFi
+The Bull Case for DeFi   
 https://newsletter.banklesshq.com/p/the-bull-case-for-defi-vance-spencer
 
+Naval on Tim Ferris (starts general and gets to DeFi by 75% of the talk)   
+https://www.youtube.com/watch?v=HiYo14wylQw
 
 
 
