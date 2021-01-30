@@ -1,10 +1,10 @@
 # DeFi Studies
-A series of DeFi related articles, videos and resources.
+A series of DeFi related articles, videos, and resources.
 
-To truly understand DeFi, one have to understand the basic of the underlying technology. 
-I believe that DeFi can truly create a new financial system and along with that, it can allow for businesses models that we didn't know were possible. 
+To better understand DeFi I suggest understanding how the underlying technology works and how the protocols connect to each other. 
+Below I intend to organize a list of articles, videos, and resources to guide your DeFi studies. I'm sure you'll not be limited to the articles in this list so if you found an article that you think it's important to add in one of the topics below please feel free to add to its equivalent topic. Keep in mind that this is ongoing work.
 
-Below I intend to organize a list of articles, videos and resources to guide your DeFi studies. I'm sure you'll not be limitated to the artciles in this list so if you found an article that you think it's important to add in one of the topics below please feel free to add to it's equivalent topic. 
+I believe that DeFi can truly create a new financial system and along with that, it can allow for the development of business models that we didn't know were possible. I often see DeFi as a movement, made of bright people that are experimenting with the edge of the technology and crossing boundaries once established. It is an endeavor for the brave and the curious. It requires study, dedication, collaboration, and passion. May the force be with you!
 
 # What is DeFi
 
