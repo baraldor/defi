@@ -23,6 +23,10 @@ It all started long before Bitcoin.
 Story of DeFi: How it Started, Where It Stands Now, DeFi Definition Revisited   
 https://www.youtube.com/watch?t=31&v=wSUwFVp4Fn4&feature=youtu.be
 
+# History of money
+
+The Evolution of the monetary policy
+https://open.spotify.com/episode/4HxJzlbJLEUpsZGduhSE42?si=eEl545kwSDu6znUUZpAG3w
 
 # Blockchain Basics
 The Cypherpunks   
