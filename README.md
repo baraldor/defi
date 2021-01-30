@@ -15,17 +15,15 @@ A Bigginer's guide to DeFi
 https://nakamoto.com/beginners-guide-to-defi/
 
 
-
-
 #  History
 It all started long before Bitcoin.
 
 Story of DeFi: How it Started, Where It Stands Now, DeFi Definition Revisited   
 https://www.youtube.com/watch?t=31&v=wSUwFVp4Fn4&feature=youtu.be
 
-# History of money
+# History of Money
 
-The Evolution of the monetary policy
+The Evolution of the Monetary Policy   
 https://open.spotify.com/episode/4HxJzlbJLEUpsZGduhSE42?si=eEl545kwSDu6znUUZpAG3w
 
 # Blockchain Basics
@@ -46,9 +44,6 @@ https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway
 
 Ethereum Yellow paper   
 https://ethereum.github.io/yellowpaper/paper.pdf
-
-Videos of how blockchain works
-Ethereum
 
 Crypto Networks and Why they Matter   
 https://www.youtube.com/watch?v=2wxtiNgXBaU&feature=emb_title
@@ -90,7 +85,6 @@ https://compound.finance/documents/Compound.Whitepaper.pdf
 
 Uniswap Whitepaper   
 https://uniswap.org/whitepaper.pdf
-
 
 
 # Favorite Articles 
