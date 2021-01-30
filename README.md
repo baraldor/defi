@@ -8,29 +8,83 @@ Below I intend to organize a list of articles, videos and resources to guide you
 
 # What is DeFi
 
-- Decentralized Finance: On Blockchain- and Smart Contract-based Financial Markets  
-  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3571335
-- A Bigginer's guide to DeFi   
-  https://nakamoto.com/beginners-guide-to-defi/
+Decentralized Finance: On Blockchain- and Smart Contract-based Financial Markets  
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3571335
+
+A Bigginer's guide to DeFi   
+https://nakamoto.com/beginners-guide-to-defi/
+
+
 
 
 #  History
 It all started long before Bitcoin.
 
-
+Story of DeFi: How it Started, Where It Stands Now, DeFi Definition Revisited   
+https://www.youtube.com/watch?t=31&v=wSUwFVp4Fn4&feature=youtu.be
 
 
 # Blockchain Basics
-Cypherpunks
-Egold
-Bitcoin Whitepaper
+The Cypherpunks   
+https://nakamoto.com/the-cypherpunks/
+
+Bitcoin Whitepaper   
+https://bitcoin.org/bitcoin.pdf
+
+Satoshi Nakamoto   
+https://nakamoto.com/satoshi-nakamoto/
+
+[Video] How Bitcoin Works Anyway?   
+https://www.youtube.com/watch?v=bBC-nXj3Ng4
+
+
+
+
 Videos of how blockchain works
 Ethereum
 
+Crypto Networks and Why they Matter   
+https://www.youtube.com/watch?v=2wxtiNgXBaU&feature=emb_title
+
+# Token Economics
+
+[Video] Mechanism Design   
+https://www.youtube.com/watch?v=gCFlGLbI_kE
+
+Aavenomics   
+https://docs.aave.com/aavenomics/
 
 # Lending 
-- Decentralized Lending: An Overview   
+
+Decentralized Lending: An Overview   
 https://medium.com/dydxderivatives/decentralized-lending-an-overview-1e00fdc2d3ee
+
+Aave Whitepaper   
+https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protocol_Whitepaper_v1_0.pdf
+
+[Video] Compound   
+https://www.youtube.com/watch?v=Z4mWFI2Jalw
+
+
+# Favorite Articles 
+
+The Next Money Upgrade   
+https://newsletter.banklesshq.com/p/the-next-money-upgrade
+
+Crypto Banks vs. money protocols   
+https://newsletter.banklesshq.com/p/crypto-banks-vs-money-protocols
+
+DeFi will do to Bank what the internet did to newspapers   
+https://newsletter.banklesshq.com/p/defi-will-do-to-banks-what-the-internet
+
+Why VCs are missing DeFi   
+https://newsletter.banklesshq.com/p/why-the-vcs-are-missing-defi
+
+
+# Favorite Podcasts
+
+The Bull Case for DeFi
+https://newsletter.banklesshq.com/p/the-bull-case-for-defi-vance-spencer
 
 
 
@@ -43,6 +97,9 @@ https://defiprime.com/
 DeFi Pulse   
 https://defipulse.com/
 
+DeFi Pulse Projects List and Links   
+https://defipulse.com/defi-list/
+
 DeFiant   
 https://thedefiant.substack.com/
 
@@ -52,7 +109,13 @@ https://www.tokenterminal.com/
 LiquidityFolio   
 https://www.liquidityfolio.com/
 
+LoanScan   
+https://loanscan.io/
+
 Nansen  
 https://nansen.ai/
+
+DeFi.WTF   
+https://github.com/carboclan/pm/issues/69
 
 
