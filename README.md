@@ -7,22 +7,16 @@ Below I intend to organize a list of articles, videos, and resources to guide yo
 I believe that DeFi can truly create a new financial system and along with that, it can allow for the development of business models that we didn't know were possible. I often see DeFi as a movement, made of bright people that are experimenting with the edge of the technology and crossing boundaries once established. It is an endeavor for the brave and the curious. It requires study, dedication, collaboration, and passion. May the force be with you!
 
 # What is DeFi
-
 Decentralized Finance: On Blockchain- and Smart Contract-based Financial Markets  
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3571335
 
 A Bigginer's guide to DeFi   
 https://nakamoto.com/beginners-guide-to-defi/
 
-
-#  History
-It all started long before Bitcoin.
-
 Story of DeFi: How it Started, Where It Stands Now, DeFi Definition Revisited   
 https://www.youtube.com/watch?t=31&v=wSUwFVp4Fn4&feature=youtu.be
 
 # History of Money
-
 The Evolution of the Monetary Policy   
 https://open.spotify.com/episode/4HxJzlbJLEUpsZGduhSE42?si=eEl545kwSDu6znUUZpAG3w
 
@@ -49,7 +43,6 @@ Crypto Networks and Why they Matter
 https://www.youtube.com/watch?v=2wxtiNgXBaU&feature=emb_title
 
 # Token Economics
-
 ETH Monetary Policy   
 https://docs.ethhub.io/ethereum-basics/monetary-policy/
 
@@ -60,7 +53,6 @@ Aavenomics
 https://docs.aave.com/aavenomics/
 
 # Stablecoins
-
 Overview of Stablecoins   
 https://multicoin.capital/2018/01/17/an-overview-of-stablecoins/
 
@@ -68,7 +60,6 @@ DAI Whitepaper
 https://makerdao.com/en/whitepaper/
 
 # Lending 
-
 Decentralized Lending: An Overview   
 https://medium.com/dydxderivatives/decentralized-lending-an-overview-1e00fdc2d3ee
 
@@ -82,13 +73,11 @@ Compound Whitepaper
 https://compound.finance/documents/Compound.Whitepaper.pdf
 
 # Decentralized Exchanges (DEXes)
-
 Uniswap Whitepaper   
 https://uniswap.org/whitepaper.pdf
 
 
 # Favorite Articles 
-
 The Next Money Upgrade   
 https://newsletter.banklesshq.com/p/the-next-money-upgrade
 
@@ -103,7 +92,6 @@ https://newsletter.banklesshq.com/p/why-the-vcs-are-missing-defi
 
 
 # Favorite Podcasts
-
 The Bull Case for DeFi   
 https://newsletter.banklesshq.com/p/the-bull-case-for-defi-vance-spencer
 
@@ -111,9 +99,7 @@ Naval on Tim Ferris (starts general and gets to DeFi by 75% of the talk)
 https://www.youtube.com/watch?v=HiYo14wylQw
 
 
-
 # Resources
-
 DeFi Prime   
 https://defiprime.com/
 
@@ -142,3 +128,9 @@ DeFi.WTF
 https://github.com/carboclan/pm/issues/69
 
 
+# Books
+The Infinite Machine   
+https://www.amazon.com/Infinite-Machine-Crypto-hackers-Building-Internet-ebook/dp/B07X8HS2WC
+
+Economics and Math of Token Engineering and DeFi   
+https://book.economicsdesign.com/
