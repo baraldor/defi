@@ -66,11 +66,20 @@ https://medium.com/dydxderivatives/decentralized-lending-an-overview-1e00fdc2d3e
 Aave Whitepaper   
 https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protocol_Whitepaper_v1_0.pdf
 
-[Video] Compound   
-https://www.youtube.com/watch?v=Z4mWFI2Jalw
+[Video] Intro to Aave  
+https://www.youtube.com/watch?v=BiseNyNpniE
 
 Compound Whitepaper   
 https://compound.finance/documents/Compound.Whitepaper.pdf
+
+[Video] Compound   
+https://www.youtube.com/watch?v=Z4mWFI2Jalw
+
+[Video] What are those cTokens that you receive from Compound Finance?  
+https://www.youtube.com/watch?v=pa3CsqWOdLA
+
+The Yield Protocol 
+https://research.paradigm.xyz/Yield.pdf
 
 # Decentralized Exchanges (DEXes)
 Uniswap Whitepaper   
@@ -97,6 +106,12 @@ https://newsletter.banklesshq.com/p/the-bull-case-for-defi-vance-spencer
 
 Naval on Tim Ferris (starts general and gets to DeFi by 75% of the talk)   
 https://www.youtube.com/watch?v=HiYo14wylQw
+
+# Admin Keys
+
+The Risks of Unknown DeFi Admin Key Opsec   
+https://www.youtube.com/watch?v=U9fVIPhWj6c&list=PLRkNpyKhx0GccGaBSfhtPY_pkALJGPOvV
+
 
 
 # Resources
