@@ -7,6 +7,10 @@ Below I intend to organize a list of articles, videos, and resources to guide yo
 I believe that DeFi can truly create a new financial system and along with that, it can allow for the development of business models that we didn't know were possible. I often see DeFi as a movement, made of bright people that are experimenting with the edge of the technology and crossing boundaries once established. It is an endeavor for the brave and the curious. It requires study, dedication, collaboration, and passion. May the force be with you!
 
 # What is DeFi
+
+[Videos] DeFi 101  
+https://www.youtube.com/playlist?list=PLaDcID4s1KronHMKojfjwiHL0DdQEPDcq
+
 Decentralized Finance: On Blockchain- and Smart Contract-based Financial Markets  
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3571335
 
