@@ -153,3 +153,6 @@ https://www.amazon.com/Infinite-Machine-Crypto-hackers-Building-Internet-ebook/d
 
 Economics and Math of Token Engineering and DeFi   
 https://book.economicsdesign.com/
+
+How to Defi - Coin Gecko ($15 but pretty good)
+https://landing.coingecko.com/how-to-defi/
