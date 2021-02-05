@@ -26,7 +26,7 @@ https://open.spotify.com/episode/4HxJzlbJLEUpsZGduhSE42?si=eEl545kwSDu6znUUZpAG3
 
 # Blockchain Basics
 
-Crypto Glossary 
+Crypto Glossary    
 https://a16z.com/2019/11/08/crypto-glossary/
 
 The Cypherpunks   
