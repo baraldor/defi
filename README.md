@@ -25,6 +25,10 @@ The Evolution of the Monetary Policy
 https://open.spotify.com/episode/4HxJzlbJLEUpsZGduhSE42?si=eEl545kwSDu6znUUZpAG3w
 
 # Blockchain Basics
+
+Crypto Glossary 
+https://a16z.com/2019/11/08/crypto-glossary/
+
 The Cypherpunks   
 https://nakamoto.com/the-cypherpunks/
 
