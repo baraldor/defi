@@ -90,6 +90,10 @@ The Yield Protocol
 https://research.paradigm.xyz/Yield.pdf
 
 # Decentralized Exchanges (DEXes)
+
+Building a Decentralized Exchange in Ethereum   
+https://blog.gnosis.pm/building-a-decentralized-exchange-in-ethereum-eea4e7452d6e
+
 Uniswap Whitepaper   
 https://uniswap.org/whitepaper.pdf
 
