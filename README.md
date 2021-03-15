@@ -50,6 +50,9 @@ https://ethereum.github.io/yellowpaper/paper.pdf
 Crypto Networks and Why they Matter   
 https://www.youtube.com/watch?v=2wxtiNgXBaU&feature=emb_title
 
+Crypto Canon (by Sonal Chokshi, Chris Dixon, Denis Nazarov, Jesse Walden, and Ali Yahya @ a16z)  
+https://a16z.com/2018/02/10/crypto-readings-resources/
+
 # Token Economics
 ETH Monetary Policy   
 https://docs.ethhub.io/ethereum-basics/monetary-policy/
