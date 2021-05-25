@@ -20,6 +20,10 @@ https://nakamoto.com/beginners-guide-to-defi/
 Story of DeFi: How it Started, Where It Stands Now, DeFi Definition Revisited   
 https://www.youtube.com/watch?t=31&v=wSUwFVp4Fn4&feature=youtu.be
 
+# For developers
+Blockchain Learning Path  
+https://github.com/protofire/blockchain-learning-path
+
 # History of Money
 The Evolution of the Monetary Policy   
 https://open.spotify.com/episode/4HxJzlbJLEUpsZGduhSE42?si=eEl545kwSDu6znUUZpAG3w
