@@ -6,8 +6,6 @@ Below I intend to organize a list of articles, videos, and resources to guide yo
 
 I believe that DeFi can truly create a new financial system and along with that, it can allow for the development of business models that we didn't know were possible. I often see DeFi as a movement, made of bright people that are experimenting with the edge of the technology and crossing boundaries once established. It is an endeavor for the brave and the curious. It requires study, dedication, collaboration, and passion. May the force be with you!
 
-Learn Defi - Zapper  
-https://learn.zapper.fi/
 
 # What is DeFi
 
@@ -106,6 +104,11 @@ https://blog.gnosis.pm/building-a-decentralized-exchange-in-ethereum-eea4e7452d6
 
 Uniswap Whitepaper   
 https://uniswap.org/whitepaper.pdf
+
+# Using DeFi Protocols
+
+Learn Defi - Zapper  
+https://learn.zapper.fi/
 
 
 # Favorite Articles 
