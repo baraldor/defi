@@ -1,5 +1,5 @@
 # DeFi Studies
-A series of DeFi related articles, videos, and resources.
+A series of DeFi related articles, videos, lectures and resources.
 
 To better understand DeFi I suggest understanding how the underlying technology works and how the protocols connect to each other. 
 Below I intend to organize a list of articles, videos, and resources to guide your DeFi studies. I'm sure you'll not be limited to the articles in this list so if you found an article that you think it's important to add in one of the topics below please feel free to add to its equivalent topic. Keep in mind that this is ongoing work.
