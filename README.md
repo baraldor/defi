@@ -46,7 +46,7 @@ https://nakamoto.com/satoshi-nakamoto/
 [Video] How Bitcoin Works Anyway?   
 https://www.youtube.com/watch?v=bBC-nXj3Ng4
 
-Bitcoin, Blockchain and Cryptoassets (University of Basel)      
+[Free lectures] Bitcoin, Blockchain and Cryptoassets (University of Basel)      
 https://cryptolectures.teachable.com/
 
 How Ethereum Works Anyway?   
