@@ -9,6 +9,9 @@ I believe that DeFi can truly create a new financial system and along with that,
 
 # What is DeFi
 
+[Guide] Guide to DeFi   
+https://finematics.com/guide-to-decentralized-finance/
+
 [Videos] DeFi 101  
 https://www.youtube.com/playlist?list=PLaDcID4s1KronHMKojfjwiHL0DdQEPDcq
 
