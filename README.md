@@ -18,7 +18,7 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3571335
 A Bigginer's guide to DeFi   
 https://nakamoto.com/beginners-guide-to-defi/
 
-Finematics (videos)    
+[Videos] Finematics     
 https://finematics.com/
 
 Story of DeFi: How it Started, Where It Stands Now, DeFi Definition Revisited   
