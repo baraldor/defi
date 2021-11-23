@@ -141,7 +141,7 @@ https://newsletter.banklesshq.com/p/the-bull-case-for-defi-vance-spencer
 Naval on Tim Ferris (starts general and gets to DeFi by 75% of the talk)   
 https://www.youtube.com/watch?v=HiYo14wylQw
 
-Naval and Chris Dixon on Tim Ferris 
+Naval and Chris Dixon on Tim Ferris   
 https://open.spotify.com/episode/3U4wMKyvMUhB83qf8FaA3I?si=XMy9BbEARUmh78Sm5CbCXQ
 
 
@@ -156,7 +156,7 @@ https://www.youtube.com/watch?v=U9fVIPhWj6c&list=PLRkNpyKhx0GccGaBSfhtPY_pkALJGP
 DeFi Prime   
 https://defiprime.com/
 
-DeFi Llama
+DeFi Llama   
 https://defillama.com/
 
 DeFi Pulse   
@@ -194,5 +194,5 @@ https://book.economicsdesign.com/
 How to Defi - Coin Gecko ($15 but pretty good)
 https://landing.coingecko.com/how-to-defi/
 
-DeFi and the Future of Finance
+DeFi and the Future of Finance   
 https://www.amazon.com/DeFi-Future-Finance-Campbell-Harvey/dp/1119836018
