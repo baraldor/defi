@@ -38,7 +38,7 @@ https://github.com/protofire/blockchain-learning-path
 The Evolution of the Monetary Policy   
 https://open.spotify.com/episode/4HxJzlbJLEUpsZGduhSE42?si=eEl545kwSDu6znUUZpAG3w
 
-# Blockchain Basics
+# Blockchain Foundations
 
 Crypto Glossary    
 https://a16z.com/2019/11/08/crypto-glossary/
@@ -55,6 +55,12 @@ https://nakamoto.com/satoshi-nakamoto/
 [Video] How Bitcoin Works Anyway?   
 https://www.youtube.com/watch?v=bBC-nXj3Ng4
 
+Szabo’s fundamentals on social scalability
+http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html?m=1
+
+An Honest Account of Fiat Money - A framework for Bitcoin skeptics, part 1
+https://medium.com/@hasufly/why-bitcoin-3fdee2328759
+
 [Free lectures] Bitcoin, Blockchain and Cryptoassets (University of Basel)      
 https://cryptolectures.teachable.com/
 
@@ -70,6 +76,17 @@ https://www.youtube.com/watch?v=2wxtiNgXBaU&feature=emb_title
 Crypto Canon (by Sonal Chokshi, Chris Dixon, Denis Nazarov, Jesse Walden, and Ali Yahya @ a16z)  
 https://a16z.com/2018/02/10/crypto-readings-resources/
 
+Markets Are Eating the World
+https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
+
+If you want to deep dive: 
+
+Vitalik blog
+https://vitalik.ca
+
+Nakamoto Institute
+nakamotoinstitute.org/literature/
+
 # Token Economics
 ETH Monetary Policy   
 https://docs.ethhub.io/ethereum-basics/monetary-policy/
@@ -79,6 +96,14 @@ https://www.youtube.com/watch?v=gCFlGLbI_kE
 
 Aavenomics   
 https://docs.aave.com/aavenomics/
+
+# Governance
+
+Blockchain Governance - Programming Our Future
+https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74
+
+Funding the Evolution of Blockchains
+https://medium.com/@FEhrsam/funding-the-evolution-of-blockchains-87d160988481
 
 # Stablecoins
 Overview of Stablecoins   
