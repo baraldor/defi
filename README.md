@@ -160,7 +160,10 @@ https://open.spotify.com/episode/3U4wMKyvMUhB83qf8FaA3I?si=XMy9BbEARUmh78Sm5CbCX
 The Risks of Unknown DeFi Admin Key Opsec   
 https://www.youtube.com/watch?v=U9fVIPhWj6c&list=PLRkNpyKhx0GccGaBSfhtPY_pkALJGPOvV
 
+# L2
 
+Twitter thread about L2 skill tree:
+https://twitter.com/likebeckett/status/1452027362229436416?t=I2ZzesQgSOH85UOORI10uA&s=19
 
 # Resources
 DeFi Prime   
