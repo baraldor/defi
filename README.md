@@ -123,7 +123,14 @@ Learn Defi - Zapper
 https://learn.zapper.fi/
 
 
+# DAOs
+
+A Primer on DAOs   
+https://learn.zapper.fi/articles/a-primer-on-daos
+
+
 # Favorite Articles 
+
 The Next Money Upgrade   
 https://newsletter.banklesshq.com/p/the-next-money-upgrade
 
