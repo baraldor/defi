@@ -97,6 +97,12 @@ https://www.youtube.com/watch?v=gCFlGLbI_kE
 Aavenomics   
 https://docs.aave.com/aavenomics/
 
+Convex Tokenomics
+https://www.tinkeringsociety.xyz/post/analysis-of-convex-finance-cvx
+
+Tokemakenomics
+https://www.tinkeringsociety.xyz/post/tokemak-a-deep-dive
+
 # Governance
 
 Blockchain Governance - Programming Our Future
