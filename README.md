@@ -30,6 +30,11 @@ https://finematics.com/
 Story of DeFi: How it Started, Where It Stands Now, DeFi Definition Revisited   
 https://www.youtube.com/watch?t=31&v=wSUwFVp4Fn4&feature=youtu.be
 
+# RWA
+
+[Article] Drop the Dash     
+https://zeeprime.capital/drop-the-dash
+
 # For developers
 Blockchain Learning Path  
 https://github.com/protofire/blockchain-learning-path
